@@ -1,4 +1,4 @@
-# 🧬 Mini ENA MCP Server (V2)
+# 🧬 Mini ENA MCP Server 
 
 A minimal **Model Context Protocol (MCP)** server that exposes a subset of the **European Nucleotide Archive (ENA) REST API** as structured, schema-validated tools for AI agents.
 
